@@ -34,8 +34,8 @@ En Linux/macOS use `python3 chomsky_app.py`.
 3. Escriba una cadena en el campo de entrada o haga clic en una de las cadenas de prueba de la lista inferior (se carga y se inicia sola).
 4. Use los botones:
    - **Iniciar**: carga la cadena y muestra la configuración inicial.
-   - **Paso ▶**: avanza una transición.
-   - **Auto ▶▶**: avanza automáticamente; el control deslizante ajusta el retardo.
+   - **Paso >**: avanza una transición.
+   - **Auto >>**: avanza automáticamente; el control deslizante ajusta el retardo.
    - **Pausa**: detiene la animación automática.
    - **Reiniciar**: limpia la simulación.
 5. Al terminar se muestra **ACEPTADA** o **RECHAZADA**. El registro inferior lista cada transición aplicada.
