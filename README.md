@@ -1,4 +1,4 @@
-# Simulador de la Jerarquía de Chomsky
+# Simulador de Chomsky
 
 Aplicación de escritorio con interfaz gráfica que permite visualizar y simular los modelos computacionales de los cuatro niveles de la Jerarquía de Chomsky. Cada módulo ejecuta la cadena paso a paso (manual o automático) y muestra el estado interno del modelo.
 
