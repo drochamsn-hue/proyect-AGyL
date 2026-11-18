@@ -11,9 +11,7 @@ Aplicación de escritorio con interfaz gráfica que permite visualizar y simular
 
 ## Requisitos
 
-- Python 3.8 o superior
-- Tkinter (incluido con Python en Windows y macOS)
-- Linux (Debian/Ubuntu): `sudo apt install python3-tk`
+- Python 3.8 o superior`sudo apt install python3-tk`
 
 No necesita instalar librerías externas.
 
@@ -27,7 +25,7 @@ python chomsky_app.py
 
 En Linux/macOS use `python3 chomsky_app.py`.
 
-## Manual de uso
+## Uso manual
 
 1. En el menú principal elija uno de los cuatro módulos.
 2. Seleccione el lenguaje en la lista desplegable (en el Nivel 3 también puede cambiar el valor de N para el lenguaje "Múltiplos de N").
