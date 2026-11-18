@@ -20,8 +20,8 @@ No necesita instalar librerías externas.
 ## Instalación y ejecución
 
 ```bash
-git clone https://github.com/<usuario>/<repositorio>.git
-cd <repositorio>
+git clone https://github.com/drochamsn-hue/proyect-AGyL.git
+cd proyect-AGyL
 python chomsky_app.py
 ```
 
